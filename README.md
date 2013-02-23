@@ -1,3 +1,5 @@
+[![Build Status](https://buildhive.cloudbees.com/job/marnix/job/precise-patches-lib/badge/icon)](https://buildhive.cloudbees.com/job/marnix/job/precise-patches-lib/)
+
 precise-patches-lib
 ===================
 
